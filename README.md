@@ -23,4 +23,5 @@
 
 # References
 [Software Reusability Data Set](https://www.sciencedirect.com/science/article/pii/S235234091931042X)
+
 [E-scooter sharing schemes operational zones in Poland: Dataset on voivodeship capital cities](https://www.sciencedirect.com/science/article/pii/S2352340920314426)
