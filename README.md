@@ -24,7 +24,8 @@
 3. Fetch all the different metrics like Class, Project, Package.
 
 # Question for Chong
-- Should we aggregate the data?
+- Should we aggregate the data? 
+- And if aggregating, then should we aggregate all the repositories Maven Reuse a for monerepo?
 
 # References
 1. [Software Reusability Data Set](https://www.sciencedirect.com/science/article/pii/S235234091931042X)
