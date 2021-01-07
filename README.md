@@ -1,5 +1,10 @@
 # Data
 ## Why do we need this data set instead of using the other one.
+1. Aggregate set of SM + CK 
+2. Evolutionary Data Set (researchers can see how the data evolves -- time-series analysis)
+3. Number of Projects
+4. Different levels of Granularity: Class, Project, Package
+
 
 # Abstract
 ## What is it?
@@ -30,3 +35,7 @@
 # References
 1. [Software Reusability Data Set](https://www.sciencedirect.com/science/article/pii/S235234091931042X)
 2. [E-scooter sharing schemes operational zones in Poland: Dataset on voivodeship capital cities](https://www.sciencedirect.com/science/article/pii/S2352340920314426)
+3. [Data In Brief Guide](https://www.elsevier.com/journals/data-in-brief/2352-3409?generatepdf=true)
+
+# Future Plans
+1. JS with SM
